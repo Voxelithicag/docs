@@ -1,0 +1,21 @@
+# Voxelithic Documentation
+
+Technical documentation for Voxelithic — the liquidity layer for Robinhood Chain.
+
+## Contents
+
+- [Architecture](content/architecture.md)
+- [Integration Guide](content/integration.md)
+- [Venues](content/venues.md)
+- [Contract Reference](content/contracts.md)
+
+## Links
+
+- [voxelithic.xyz](https://voxelithic.xyz)
+- [Contracts](https://github.com/Voxelithicag/contracts)
+- [Book Engine](https://github.com/Voxelithicag/book-engine)
+- [Blockscout](https://robinhoodchain.blockscout.com)
+
+## License
+
+CC BY 4.0
