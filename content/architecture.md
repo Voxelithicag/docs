@@ -43,3 +43,5 @@ Wallet (EIP-1193) → App → Book Engine
 - No admin keys, no upgradeability, no pause
 
 // updated: iteration 13
+
+// updated: iteration 21
