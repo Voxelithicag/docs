@@ -41,7 +41,3 @@ Wallet (EIP-1193) → App → Book Engine
 - `minOut` verified on-chain
 - Protocol fee deducted before the check
 - No admin keys, no upgradeability, no pause
-
-// updated: iteration 13
-
-// updated: iteration 21
