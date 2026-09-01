@@ -4,10 +4,10 @@
 
 | Contract | Address | Verified |
 |----------|---------|----------|
-| VoxRouter | `0x87cD…2e64` | [Blockscout](https://robinhoodchain.blockscout.com/address/0x87cD67C1C4adFac2BF8e1B2f30f3802a70712e64) |
-| VoxQuoter | `0x9616…bE1B` | [Blockscout](https://robinhoodchain.blockscout.com/address/0x9616D53a9B55d82e56c6c08Ca7E2beD6D7e1bE1B) |
-| VoxRouterV4 | `0x290b…aab5` | [Blockscout](https://robinhoodchain.blockscout.com/address/0x290b9b46308f7a3B80A5F62214B426d3bfAfaab5) |
-| VoxQuoterV4 | `0x5858…d4F` | [Blockscout](https://robinhoodchain.blockscout.com/address/0x5858F06894623eF4862103A747074E5AA3436d4F) |
+| VoxRouter | `0x87cD7EbE8c213455e5e5a8554657D5f294a82e64` | [Blockscout](https://robinhoodchain.blockscout.com/address/0x87cD7EbE8c213455e5e5a8554657D5f294a82e64) |
+| VoxQuoter | `0x9616627E871c96e38cb21b9551F62Ed93366bE1B` | [Blockscout](https://robinhoodchain.blockscout.com/address/0x9616627E871c96e38cb21b9551F62Ed93366bE1B) |
+| VoxRouterV4 | `0x290b9b46308f7a3B80A5F62214B426d3bfAfaab5` | [Blockscout](https://robinhoodchain.blockscout.com/address/0x290b9b46308f7a3B80A5F62214B426d3bfAfaab5) |
+| VoxQuoterV4 | `0x5858F06894623eF4862103A747074E5AA3436d4F` | [Blockscout](https://robinhoodchain.blockscout.com/address/0x5858F06894623eF4862103A747074E5AA3436d4F) |
 
 ## Error codes
 
